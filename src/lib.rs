@@ -4,3 +4,5 @@ pub mod sstable;
 pub mod compaction;
 pub mod mvcc;
 pub mod db;
+
+// Incremental development step #3
