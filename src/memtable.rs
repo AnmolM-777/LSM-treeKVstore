@@ -10,3 +10,5 @@ impl MemTable { pub fn new() -> Self { Self { map: Arc::new(SkipMap::new()), siz
 // Incremental development step #4
 
 // Incremental development step #18
+
+// Incremental development step #32
