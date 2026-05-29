@@ -7,3 +7,5 @@ impl TxnManager { pub fn new() -> Self { Self { next_seq: AtomicU64::new(1) } } 
 // Incremental development step #24
 
 // Incremental development step #38
+
+// Incremental development step #52
