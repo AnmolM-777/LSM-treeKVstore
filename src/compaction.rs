@@ -8,3 +8,5 @@ impl Compactor { pub fn new(max_levels: usize) -> Self { Self { _max_levels: max
 // Incremental development step #23
 
 // Incremental development step #37
+
+// Incremental development step #51
