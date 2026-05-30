@@ -11,3 +11,5 @@ impl LSMEngine { pub fn open(path: &str) -> std::io::Result<Self> { let wal = Wa
 // Incremental development step #25
 
 // Incremental development step #39
+
+// Incremental development step #53
