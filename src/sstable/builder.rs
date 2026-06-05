@@ -12,3 +12,5 @@ impl SsTableBuilder { pub fn new(file: File, expected_keys: usize) -> Self { Sel
 // Incremental development step #36
 
 // Incremental development step #50
+
+// Incremental development step #64
