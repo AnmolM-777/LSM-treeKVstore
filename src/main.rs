@@ -10,3 +10,5 @@ fn main() -> std::io::Result<()> { println!("=== LSM Engine Demo ==="); let path
 // Incremental development step #40
 
 // Incremental development step #54
+
+// Incremental development step #68
