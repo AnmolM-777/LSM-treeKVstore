@@ -16,3 +16,5 @@ impl Wal { pub fn open<P: AsRef<Path>>(path: P) -> IoResult<Self> { let file = O
 // Incremental development step #61
 
 // Incremental development step #75
+
+// Incremental development step #89
