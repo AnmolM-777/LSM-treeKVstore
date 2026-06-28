@@ -14,3 +14,5 @@ impl BloomFilter { pub fn new(capacity: usize, fp_rate: f64) -> Self { let size 
 // Incremental development step #77
 
 // Incremental development step #91
+
+// Incremental development step #105
